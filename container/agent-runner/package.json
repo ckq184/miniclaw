@@ -26,10 +26,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riba2534/happyclaw.git",
+    "url": "git+https://github.com/ckq184/miniclaw.git",
     "directory": "container/agent-runner"
   },
-  "author": "riba2534",
+  "homepage": "https://github.com/ckq184/miniclaw#readme",
+  "bugs": {
+    "url": "https://github.com/ckq184/miniclaw/issues"
+  },
+  "author": "ckq184",
   "keywords": [
     "agent-runner",
     "mcp",
