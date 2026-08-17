@@ -55,8 +55,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riba2534/happyclaw.git",
+    "url": "git+https://github.com/ckq184/miniclaw.git",
     "directory": "web"
   },
-  "author": "riba2534"
+  "homepage": "https://github.com/ckq184/miniclaw#readme",
+  "bugs": {
+    "url": "https://github.com/ckq184/miniclaw/issues"
+  },
+  "author": "ckq184"
 }
